@@ -33,3 +33,7 @@ Simply place your media files in the `assets/` folder:
 - `card-1.jpg` and `card-2.jpg` for the slideshow images
 
 That's it! No build process or dependencies required.
+
+---
+
+Built with ⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖
